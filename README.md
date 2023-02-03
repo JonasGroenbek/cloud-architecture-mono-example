@@ -1,0 +1,1 @@
+# cloud-architecture-mono-example
